@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  color: mediumaquamarine;
+  font-size: 34.8px;
+  font-family: 'Kaushan Script', cursive;
+  background-image: url("background.jpg");
+}
+
+h1 h2 {
+  font-family: "Poppins", sans-serif;
+}
+
+.surfers {
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 180px;
+  margin-right: 20px;
+}
+
+#profiles {
+  margin: -20px;
+}
+
+#duke {
+  background-image: url("duke.jpg");
+}
+
+#miki {
+  background-image: url("Miki.jpg");
+}
+
+#kelly {
+  background-image: url("Kelly.jpg");
+}
+
+#gidget {
+  background-image: url("gidget.jpg");
+}
